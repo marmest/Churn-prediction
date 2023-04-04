@@ -1,4 +1,4 @@
-# churn_prediction
+# Churn prediction
 PlayNirvana Hackathon - NeoData radionica (9.1.2023. - 16.1.2023.)
 Na Hackathonu smo dobili dva dataseta, sve transakcije i osobne podatke igrača na online betting platformi. Cilj je bio u nekom fiksnom danu predictati za
 igrače aktivne u zadnjih 30 dana hoće li churnati (otići s platforme) u sljedećih 30 dana. Prvo smo iz inicijalnih datasetova dobili dataset sa svojstvima
